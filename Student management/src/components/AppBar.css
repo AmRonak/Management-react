@@ -1,0 +1,13 @@
+.AppBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+}
+.logo-search {
+  display: flex;
+  align-items: center;
+}
+.logo {
+  margin-right: 15px;
+}
